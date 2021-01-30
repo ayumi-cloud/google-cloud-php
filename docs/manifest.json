@@ -507,6 +507,14 @@
             ]
         },
         {
+            "id": "cloud-channel",
+            "name": "google/cloud-channel",
+            "defaultService": "channel/readme",
+            "versions": [
+                "master"
+            ]
+        },
+        {
             "id": "cloud-common-protos",
             "name": "google/cloud-common-protos",
             "defaultService": "commonprotos/readme",
@@ -514,6 +522,15 @@
                 "v0.2.1",
                 "v0.2.0",
                 "v0.1.1",
+                "v0.1.0",
+                "master"
+            ]
+        },
+        {
+            "id": "cloud-compute",
+            "name": "google/cloud-compute",
+            "defaultService": "compute/readme",
+            "versions": [
                 "v0.1.0",
                 "master"
             ]
@@ -563,15 +580,6 @@
                 "v0.2.1",
                 "v0.2.0",
                 "v0.1.1",
-                "v0.1.0",
-                "master"
-            ]
-        },
-        {
-            "id": "cloud-compute",
-            "name": "google/cloud-compute",
-            "defaultService": "compute/readme",
-            "versions": [
                 "v0.1.0",
                 "master"
             ]
